@@ -70,7 +70,7 @@ async function starts() {
 	    let descrip = mdata.desc
 	    let welc = await getCustomWelcome(mdata.id)
 	    capt = welc.replace('@user', tag).replace('@name', username).replace('@bio', about).replace('@date', tanggal).replace('@desc', descrip).replace('@group', mdata.subject);
-	      Turbo.send2ButtonLoc(mdata.id, buff, capt, 'Suscríbete en YouTube\nhttps://youtube.com/c/turbontr1?sub_confirmatión=1', '⦙☰ MENU', '/menu', '⏍ INFO GP', '/infogp', false, {
+	      Turbo.send2ButtonLoc(mdata.id, buff, capt, 'Sigueme en Instagram\nhttp://instagram.com/dragon_fuckk?sub_confirmatión=1', '⦙☰ MENU', '/menu', '⏍ INFO GP', '/infogp', false, {
 	      contextInfo: {  
             mentionedJid: Turbo.parseMention(capt)
 	      } 
@@ -84,7 +84,7 @@ async function starts() {
         let buff = await getBuffer(ppimg);
         let bye = await getCustomBye(mdata.id);
         capt = bye.replace('@user', tag).replace('@name', username).replace('@bio', about).replace('@date', tanggal).replace('@group', mdata.subject);
-        Turbo.sendButtonLoc(mdata.id, buff, capt, 'Suscríbete en YouTube\nhttps://youtube.com/c/turbontr1?sub_confirmatión=1', '👋🏻', 'unde', false, {
+        Turbo.sendButtonLoc(mdata.id, buff, capt, 'Sigueme en Instagram\nhttp://instagram.com/dragon_fuckk?sub_confirmatión=1', '👋🏻', 'unde', false, {
 	      contextInfo: { 
             mentionedJid: Turbo.parseMention(capt)
 	      } 
