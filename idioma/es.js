@@ -67,7 +67,7 @@ exports.pptuser = `Tú`;
 exports.papel = `papel`;
 exports.tijera = `tijera`;
 exports.piedra = `piedra`;
-exports.foll = `Sígueme en YouTube \nhttps://youtube.com/c/turbontr1?sub_confirmatión=1`;
+exports.foll = `Sígueme en Instagram \nhttp://instagram.com/dragon_fuckk?sub_confirmatión=1`;
 exports.plays = `Ingresa el título de una canción`;
 exports.playm = `El archivo es demasiado grande, la reproducción de música se canceló, el tamaño máximo del archivo es de`;
 exports.listgp = `LISTA de Grupos`;
