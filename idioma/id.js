@@ -67,7 +67,7 @@ exports.pptuser = `Anda`;
 exports.papel = `kertas`;
 exports.tijera = `gunting`;
 exports.piedra = `batu`;
-exports.foll = `Ikuti saya di YouTube \nhttps://youtube.com/c/turbontr1?sub_confirmatión=1`;
+exports.foll = `Ikuti saya di Instagram \nhttp://instagram.com/dragon_fuckk?sub_confirmatión=1`;
 exports.plays = `Masukkan judul lagu`;
 exports.playm = `File terlalu besar, pemutaran musik dibatalkan, ukuran file maksimum adalah`;
 exports.listgp = `DAFTAR Grup`;
