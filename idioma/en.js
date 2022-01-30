@@ -67,7 +67,7 @@ exports.pptuser = `You`;
 exports.papel = `paper`;
 exports.tijera = `scissor`;
 exports.piedra = `stone`;
-exports.foll = `Follow me in YouTube \nhttps://youtube.com/c/turbontr1?sub_confirmatión=1`;
+exports.foll = `Follow me in Instagram \nhttp://instagram.com/dragon_fuckk?sub_confirmatión=1`;
 exports.plays = `Enter a song title`;
 exports.playm = `The file is too large, music playback was canceled, the maximum file size is`;
 exports.listgp = `LIST of Groups`;
